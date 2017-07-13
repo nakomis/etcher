@@ -39,3 +39,4 @@ Makefile text
 *.zip binary diff=hex
 *.dmg binary diff=hex
 *.rpi-sdcard binary diff=hex
+*.foo binary diff=hex
